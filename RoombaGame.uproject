@@ -13,10 +13,14 @@
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
+<<<<<<< Updated upstream
 			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
 			]
+=======
+			"Enabled": true
+>>>>>>> Stashed changes
 		}
 	]
 }
